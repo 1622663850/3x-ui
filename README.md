@@ -31,11 +31,11 @@
 ## `安装`&`升级`一键脚本
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/admin8800/3x-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/1622663850/3x-ui/main/install.sh)
 ```
 ### 备用脚本
 ```
-bash <(curl -Ls https://cdn.jsdelivr.net/gh/admin8800/3x-ui@main/install.sh)
+bash <(curl -Ls https://cdn.jsdelivr.net/gh/1622663850/3x-ui@main/install.sh)
 ```
 
 ### 纯IPV6网络部署 
